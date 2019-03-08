@@ -1,6 +1,0 @@
-/Users/koehne/Dropbox/Datalogi/2Semester/Softwareudvikling/Uge4/su19-DLDM/SU19-Exercises/bin/Debug/SU19_Exercises.exe
-/Users/koehne/Dropbox/Datalogi/2Semester/Softwareudvikling/Uge4/su19-DLDM/SU19-Exercises/bin/Debug/SU19_Exercises.pdb
-/Users/koehne/Dropbox/Datalogi/2Semester/Softwareudvikling/Uge4/su19-DLDM/SU19-Exercises/obj/Debug/SU19-Exercises.csprojAssemblyReference.cache
-/Users/koehne/Dropbox/Datalogi/2Semester/Softwareudvikling/Uge4/su19-DLDM/SU19-Exercises/obj/Debug/SU19-Exercises.csproj.CoreCompileInputs.cache
-/Users/koehne/Dropbox/Datalogi/2Semester/Softwareudvikling/Uge4/su19-DLDM/SU19-Exercises/obj/Debug/SU19_Exercises.exe
-/Users/koehne/Dropbox/Datalogi/2Semester/Softwareudvikling/Uge4/su19-DLDM/SU19-Exercises/obj/Debug/SU19_Exercises.pdb
